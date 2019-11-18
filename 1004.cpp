@@ -1,3 +1,8 @@
+/**
+ * desc: 1004.填充矩形
+ * author: yinsuhu
+ * date: 2019.11.18
+ */
 #include<iostream>
 using namespace std;
 int main() {
